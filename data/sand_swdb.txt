@@ -1,0 +1,22 @@
+#
+#Silica (Sand), R0= 2.140 g/cc
+#
+#  P      E-E0   
+11.560    1.066   
+19.698    2.060   
+ 7.457    0.572   
+ 5.920    0.673   
+ 5.786    0.684   
+ 8.700    1.296   
+ 9.321    1.445   
+15.045    2.486   
+15.144    2.531   
+
+#References:
+# M. van Thiel (Ed.), Compendium of shock wave data, (Livermore: Lawrence
+#   Livermore Laboratory Report UCRL-50108, 1977), 356-357
+#
+#Denotions:
+#R0   - normal density of substance, g/cc
+#P    - pressure behind shock front, GPa
+#E-E0 - specific energy behind shock front, kJ/g
